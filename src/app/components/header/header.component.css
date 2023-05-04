@@ -58,4 +58,8 @@ nav {
     .links {
         margin-left: 0rem;
     }
+
+    .links a {
+        font-size: 0.8rem;
+    }
 }
